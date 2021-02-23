@@ -63,7 +63,9 @@ TypeScript é um superset do JS, ou seja, ele extende as capacidades do JS. Como
 *obs: utilizado a lib axios para realizar requisições para a api*
 
 <br />
+
 ---
+
 # Fontes
 
 - [masterClass da Rocketseat](https://www.youtube.com/watch?v=0mYq5LrQN1s)
