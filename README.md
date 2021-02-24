@@ -25,6 +25,7 @@ TypeScript é um superset do JS, ou seja, ele extende as capacidades do JS. Como
   - pode ser extensível;
   - classes podem implementar interfaces:
     - assim como no Java, interfaces são como um "contrato" (a classe que implementar ela, deve ter os mesmos atributos e funções que sejam obrigatórios).
+  - **overloading**: funções podem ser sobrescritas para receberem quantidade de parametros diferentes (*polimorfismo de sobrecarga*)
 
 ## Observações
 - 🎬 `Pokemon.d.ts` nesse arquivo pode ser declarado uma interface, que todo o código irá reconhecer essa interface, assim, evitando repetir o código de uma interface utilizada em vários arquivos.

@@ -1,8 +1,3 @@
-// extendendo a interface de Pokemon
-interface SeaPokemon extends Pokemon {
-  type: 'water' | 'fly';
-}
-
 // implementando interface na Classe
 class Squirtle implements SeaPokemon {
   // default é public

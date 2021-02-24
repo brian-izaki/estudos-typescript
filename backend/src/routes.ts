@@ -8,5 +8,6 @@ routes.get('/users', UserContoller.index)
 routes.post('/users', UserContoller.create)
 
 routes.get('/pokemon', BattleController.battle)
+routes.get('/pokemon/is-sea', BattleController.pokemonFromSea)
 
 export default routes;
