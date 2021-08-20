@@ -14,6 +14,13 @@ TypeScript é um superset do JS, ou seja, ele extende as capacidades do JS. Como
 ## Ambiente
 - Ter o Node instalado;
 
+## Executando
+1. clone este repositório
+2. navegue para dentro de frontend com o terminal e execute `npm install`, faça a mesma coisa para o diretório backend
+3. Abra dois terminais, uma apontando para backend e outra para frontend
+4. No backend 🎬 digite `npm run dev:server`
+5. No frontend 🎥 digite `npm start`
+
 <br />
 
 ## Vocabulário
